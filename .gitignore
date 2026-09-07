@@ -1,0 +1,11 @@
+# 生成数据体积大（约90MB），由脚本一键重建，不入库
+data/*.csv
+data/*.load.csv
+
+# Python 缓存
+__pycache__/
+*.pyc
+.venv/
+
+# 临时
+*.log
