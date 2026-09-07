@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.7
+scipy>=1.10
+scikit-learn>=1.4
+mysql-connector-python>=8.0
+pyecharts>=2.0
